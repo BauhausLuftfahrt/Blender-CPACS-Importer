@@ -23,6 +23,12 @@ Go to ```File → Import → CPACS (.xml)```. Wait a few seconds for the import 
 
 ![Open a CPACS '.xml' file.](documentation/apply.png)
 
+## Examples
+The following images were rendered with minimal post processing after using the CPACS import addon. Both images were published with the publication referenced below. *(Both images (c) 2020 Bauhaus Luftfahrt e.V.)*
+
+![Demo rendering (c) 2020 Bauhaus Luftfahrt e.V.](documentation/High-quality-rendering-of-a-group-of-seats-from-a-low-angle.png)
+
+![Demo rendering of the Bauhaus Luftfahrt HyShAir concept. (c) 2020 Bauhaus Luftfahrt e.V.](documentation/Rendering-of-the-three-deck-cabin-layout-for-the-Hy-ShAir-concept-by-Bauhaus-Luftfahrt.png)
 ## Publications
 Fore more information, check out the following publication:
 - Engelmann, M.; Drust, D.; Hornung, M. (2020): Automated 3D cabin generation with PAXelerate and Blender using the CPACS file format. Deutsche Gesellschaft für Luft- und Raumfahrt - Lilienthal-Oberth e.V.. (Text). https://doi.org/10.25967/530014. 
