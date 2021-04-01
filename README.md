@@ -2,7 +2,8 @@
 
 Import CPACS xml files directly into Blender and turn them into a detailed 3D fuselage and cabin model. With already applied textures, lights and cameras you are ready to go for high quality renders of your cabin and fuselage design. 
 
-## Capablities
+[Blender](https://www.blender.org/) is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+## Features
 *coming soon*
 
 ## Installation
