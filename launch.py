@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     home_path: str = os.path.expanduser('~')
     blender_installation_path: str = os.path.join(home_path, 'Blender\\blender.exe')
-    python_script_path: str = os.path.join(home_path, 'git\\blender-cpacs-interface\\blender_cpacs_importer.py')
+    python_script_path: str = os.path.join(home_path, 'Documents\\GitHub\Blender-CPACS-Importer\\addon.py')
     cpacs_file_path: str = os.path.join(home_path, 'Desktop\\aircraft.xml')
 
     # Generate the launch arguments

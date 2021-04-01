@@ -16,7 +16,19 @@ Import CPACS '.xml' files directly into Blender and turn them into a detailed 3D
 - Note that the 3D models of Bauhaus Luftfahrt are currently not included in the addon. Include your own 3D models or import the cabin objects as cube representations.
 
 ## Installation
-*The addon is currently still under development. As soon as the addon is ready to ship, there will be information on how to install the script here.* 
+*The addon is currently under development and should not be installed and used yet.*
+
+1. Open Preferences.
+2. Open Blender, then go to ```Edit → Preferences```.
+3. Then Select Add-ons.
+4. Go to ```Install ...``` in the top right corner. 
+5. Select the ```addon.py``` file from the repository and install it.
+6. You should now find the custom addon under the Import-Export category of the add-ons tab. If not, use the refresh button.
+7. After that, activate the add-on by ticking the checkbox.
+8. You are ready to go.
+
+![The addon is installed.](documentation/install.png)
+
 
 ## Usage
 Go to ```File → Import → CPACS (.xml)```. Wait a few seconds for the import to finish.
