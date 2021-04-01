@@ -3,7 +3,7 @@
     Date: 08.07.2019
     © Bauhaus Luftfahrt e.V.
 
-    (c) 2014 - 2021 Bauhaus Luftfahrt e.V.. All rights reserved. This program and the accompanying
+    (c) 2019 - 2021 Bauhaus Luftfahrt e.V.. All rights reserved. This program and the accompanying
     materials are made available under the terms of the GNU General Public License v3.0 which accompanies
     this distribution, and is available at https://www.gnu.org/licenses/gpl-3.0.html.en
 
