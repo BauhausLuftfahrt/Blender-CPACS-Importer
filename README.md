@@ -4,10 +4,25 @@ Import CPACS xml files directly into Blender and turn them into a detailed 3D fu
 
 [Blender](https://www.blender.org/) is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
 ## Features
-*coming soon*
+- Import CPACS '.xml' files directly into Blender.
+- All cabin and fuselage objects are placed accurately.
+- Lights and camera are placed automatically.
+- Textures and materials are applied automatically. 
+- When the automatic import is done, you are immediately ready to go for rendering.
+
+## Notes
+- Currently, the following CPACS nodes are supported:
+    - Fuselage geometry
+    - Decks and all sub elements (floor elements, seats etc.)
+- Note that the 3D models of Bauhaus Luftfahrt are currenly not included in the addon. Include your own 3D models or import the cabin objects as cube representations.
 
 ## Installation
-*coming soon*
+*The addon is currently still under development. As soon as the addon is ready to ship, there will be information on how to install the script here.* 
+
+## Usage
+Go to ```File → Import → CPACS (.xml)```. Wait a few seconds for the import to finish.
+
+![Open a CPACS '.xml' file.](documentation/apply.png)
 
 ## Publications
 Fore more information, check out the following publication:
