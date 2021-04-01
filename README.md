@@ -1,11 +1,11 @@
-# CPACS Import plugin for Blender
+# CPACS import addon for Blender
 
 Import CPACS xml files directly into Blender and turn them into a detailed 3D fuselage and cabin model. With already applied textures, lights and cameras you are ready to go for high quality renders of your cabin and fuselage design. 
 
-## Installation
+## Capablities
 *coming soon*
 
-## Usage
+## Installation
 *coming soon*
 
 ## Publications
